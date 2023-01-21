@@ -10,7 +10,6 @@
   <ItemGroup>
     <Folder Include="Services\" />
     <Folder Include="Subscribers\" />
-    <Folder Include="ViewModels\" />
   </ItemGroup>
 
   <ItemGroup>
